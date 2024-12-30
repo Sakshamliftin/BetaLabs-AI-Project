@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+build/
+
+# Python
+venv/
+__pycache__/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Other
+*.sqlite3
