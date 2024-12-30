@@ -7,23 +7,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## [Unreleased]
 
 ### Added
-- Placeholder for new features or additions.
+- Initialized the frontend and backend.
+
+---
 
 ### Fixed
-- Placeholder for bug fixes.
 
 ---
 ### Changed
-- Placeholder for changes.
 
-## [1.0.0] - YYYY-MM-DD
-### Added
-- Initial repository setup with basic folder structure.
-- README file with submission rules.
-- Frontend and backend environments configured.
 
----
-
-## [0.1.0] - YYYY-MM-DD
-### Added
-- Created initial project repository.
